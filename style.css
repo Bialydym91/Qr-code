@@ -1,7 +1,7 @@
 *{
   box-sizing: border-box;
 }
-html, body{
+body{
   padding: 0;
   margin-left: 10%;
   margin-right: 20%;
@@ -24,6 +24,7 @@ header{
   background-color: hsl(0, 0%, 100%);
   justify-content: center;
   border-radius:15px;
+  margin-left:30%;
   
   
   
